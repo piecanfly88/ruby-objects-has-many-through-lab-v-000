@@ -7,4 +7,4 @@ class Appointment
     @date = date
   end
   
-end  
+end
